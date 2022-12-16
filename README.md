@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently developing my masters thesis on using machine learning algorithms for financial risk.<br>Data Scientist.<br> 
 
-## 💻 About Me:
+## 💻 Relevant Skills :
 
 Data Structures<br> 
 Machine Learning<br> 
