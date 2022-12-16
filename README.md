@@ -1,6 +1,18 @@
 # 💫 About Me:
 I'm currently developing my masters thesis on using machine learning algorithms for financial risk.<br>Data Scientist.<br> 
 
+# 💫 About Me:
+
+Data Structures<br> 
+Machine Learning<br> 
+Database Management<br> 
+Programming<br> 
+Data visualization<br> 
+Data mining<br> 
+Big Data<br> 
+Text Mining<br> 
+Statistics<br> 
+Deep Learning<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-felfel/) 
